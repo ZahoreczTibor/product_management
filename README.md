@@ -1,4 +1,4 @@
-## My learning path
+# My product management learning path
 
 # product_management
 Introduce the basics of product management in four steps (based on the Udacity Product manager course).
@@ -15,3 +15,22 @@ https://www.udacity.com/course/data-product-manager-nanodegree--nd030
 # Growth Product Manager
 During the Growth Product Manager Nanodegree program, you will learn to build acquisition funnels, identify core customers, and optimize growth loop models. Then, you will learn how to analyze your results and make improvements to your strategies. Next, you will learn activation theories on how to decrease time-to-value and friction for both B2C and B2B product users, as well as retention theories, for creating audiences and increasing engagement. Finally, you will learn the ins and outs of monetization, from designing pricing plans to determining optimal price points using pricing metrics.
 https://www.udacity.com/course/growth-product-manager-nanodegree--nd037
+
+# UX Designer
+You’ll learn how to create a digital user experience that is ready to be handed off for development. You’ll start by building familiarity and fluency with design research fundamentals to identify the user and the solutions they need. You’ll then synthesize your research, and use design sprints to take an idea from concept to low-fidelity prototype. Finally, you’ll learn how to turn your low-fidelity prototype into a high-fidelity design, and improve its performance based on data. Along the way, you’ll complete projects that can be incorporated into a UX portfolio at the end of the program in order to showcase your capabilities to future employers.
+https://www.udacity.com/course/ux-designer-nanodegree--nd578
+
+# Technology
+Full Stack Deep Learning helps you bridge the gap from training machine learning models to deploying AI systems in the real world.
+https://course.fullstackdeeplearning.com/
+Deep Learning with fastai
+https://github.com/fastai/fastbook
+
+
+## Useful aids
+Pricing Lessons from Working with 30+ Seed and Series A B2B Startups
+https://firstround.com/review/pricing-lessons-from-working-with-30-seed-and-series-a-b2b-startups/
+Heavybit Product library
+https://www.heavybit.com/library/topic/product/
+Firstround Product library
+https://firstround.com/review/product/
