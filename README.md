@@ -21,7 +21,7 @@ Evaluate the business value of an AI product. Start by building familiarity and 
 * [UX plan](https://github.com/ZahoreczTibor/product_management/blob/main/AIPM/UX_chatbot-research-plan.pdf)
 * [Create AI Product proposal](https://github.com/ZahoreczTibor/product_management/blob/main/AIPM/Create_AP_Product_Proposal.pdf)
 #### Technical side
-* [AI certidication](https://github.com/ZahoreczTibor/product_management/blob/main/certs/AIND.pdf)
+* [AI certification](https://github.com/ZahoreczTibor/product_management/blob/main/certs/AIND.pdf)
 * [Deeplearning specialization](https://github.com/ZahoreczTibor/Deeplearning.ai-course)
 * [AI capstone project](https://github.com/ZahoreczTibor/AIND-VUI-Capstone)
 
