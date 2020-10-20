@@ -1,7 +1,7 @@
 # My product management learning path 
 *The content is not related to any company, it is entirely the end product of educational projects
 
-## Product Manager program
+## Product Manager program [finidhed]
 Product Managers are responsible for designing and delivering a profitable product or feature into the market.  In this program, you will learn to define product strategy and KPIs based on market analysis, pitch a product vision to get stakeholder buy-in, and design a user-centered prototype that adheres to engineering constraints. Then, you will develop an execution timeline that handles competing priorities, communicate a product roadmap that builds consensus amongst internal stakeholders, and create a comprehensive go-to-market plan based on product KPIs. Finally, you will build tests to enhance product features based on market data.  
 [Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Product+Manager+Nanodegree+Program+Syllabus.pdf)  
 [Certificate](https://github.com/ZahoreczTibor/product_management/blob/main/certs/Product%20Manager%20Nanodegree.pdf)
@@ -12,9 +12,12 @@ Product Managers are responsible for designing and delivering a profitable produ
 * [PRD & go-to-market](https://github.com/ZahoreczTibor/product_management/blob/main/product_management/PRD_Final_Step_Goto_Market.pdf)
 
 
+## AI product manager [finished]
+Evaluate the business value of an AI product. Start by building familiarity and fluency with common AI concepts. Learn how to scope and build a data set, train a model, and evaluate its business impact. Ensure a product is successful by focusing on scalability, potential biases, and compliance. 
+[Program Syllabus](https://www.udacity.com/course/ai-product-manager-nanodegree--nd088)
+[Certificate](https://github.com/ZahoreczTibor/product_management/blob/main/certs/AIPMND.pdf)
+#### Product documents
 
-## AI Product Manager
-You’ll learn how to evaluate the business value of an AI product. You’ll start by building familiarity and fluency with common AI concepts. You’ll then learn how to scope and build a data set, train a model, and evaluate its business impact. Finally, you’ll learn how to ensure a product is successful by focusing on scalability, potential biases, and compliance. Along the way, you’ll review case studies and examples to help you focus on how to define metrics to measure the business value for a proposed product.
 
 # Data Product Manager
 Leverage market data to amplify product development. Learn how to apply data science techniques, data engineering processes, and market experimentation tests to deliver customized product experiences. Begin by leveraging the power of SQL and Tableau to inform product strategy. Then, develop data pipelines and warehousing strategies that prepare data collected from a product for robust analysis. Finally, learn techniques for evaluating the data from live products, including how to design and execute various A/B and multivariate tests to shape the next iteration of a product.
