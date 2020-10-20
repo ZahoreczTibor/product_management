@@ -17,6 +17,10 @@ Evaluate the business value of an AI product. Start by building familiarity and 
 [Program Syllabus](https://www.udacity.com/course/ai-product-manager-nanodegree--nd088)  
 [Certificate](https://github.com/ZahoreczTibor/product_management/blob/main/certs/AIPMND.pdf)
 #### Product documents
+* [build a model](https://github.com/ZahoreczTibor/product_management/blob/main/AIPM/build_model_Google_AutoML.pdf)
+* [UX plan](https://github.com/ZahoreczTibor/product_management/blob/main/AIPM/UX_chatbot-research-plan.pdf)
+* [Create AI Product proposal](https://github.com/ZahoreczTibor/product_management/blob/main/AIPM/Create_AP_Product_Proposal.pdf)
+
 
 
 # Data Product Manager
