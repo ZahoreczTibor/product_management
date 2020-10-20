@@ -2,8 +2,8 @@
 
 ## Product Manager program
 Product Managers are responsible for designing and delivering a profitable product or feature into the market. In this program, you will learn to define product strategy and KPIs based on market analysis, pitch a product vision to get stakeholder buy-in, and design a user-centered prototype that adheres to engineering constraints. Then, you will develop an execution timeline that handles competing priorities, communicate a product roadmap that builds consensus amongst internal stakeholders, and create a comprehensive go-to-market plan based on product KPIs. Finally, you will build tests to enhance product features based on market data.
-https://www.udacity.com/course/product-manager-nanodegree--nd036
-[Cert](https://github.com/ZahoreczTibor/product_management/blob/main/certs/Product%20Manager%20Nanodegree.pdf)
+[Program Syllabus] (https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Product+Manager+Nanodegree+Program+Syllabus.pdf)
+[Certificate](https://github.com/ZahoreczTibor/product_management/blob/main/certs/Product%20Manager%20Nanodegree.pdf)
 
 ## AI Product Manager
 You’ll learn how to evaluate the business value of an AI product. You’ll start by building familiarity and fluency with common AI concepts. You’ll then learn how to scope and build a data set, train a model, and evaluate its business impact. Finally, you’ll learn how to ensure a product is successful by focusing on scalability, potential biases, and compliance. Along the way, you’ll review case studies and examples to help you focus on how to define metrics to measure the business value for a proposed product.
