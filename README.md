@@ -6,7 +6,7 @@ Product Managers are responsible for designing and delivering a profitable produ
 [Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Product+Manager+Nanodegree+Program+Syllabus.pdf)  
 [Certificate](https://github.com/ZahoreczTibor/product_management/blob/main/certs/Product%20Manager%20Nanodegree.pdf)
 #### Product documents
-1.[product vision](https://github.com/ZahoreczTibor/product_management/blob/main/product_management/First_Step_Create_Vision.pdf)
+* [product vision](https://github.com/ZahoreczTibor/product_management/blob/main/product_management/First_Step_Create_Vision.pdf)
 
 
 
