@@ -24,6 +24,7 @@ Evaluate the business value of an AI product. Start by building familiarity and 
 * [AI certification](https://github.com/ZahoreczTibor/product_management/blob/main/certs/AIND.pdf)
 * [Deeplearning specialization](https://github.com/ZahoreczTibor/Deeplearning.ai-course)
 * [AI capstone project](https://github.com/ZahoreczTibor/AIND-VUI-Capstone)
+* [Full stack bootcamp](https://course.fullstackdeeplearning.com/)
 
 
 # Data Product Manager
