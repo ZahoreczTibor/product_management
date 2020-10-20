@@ -7,6 +7,9 @@ Product Managers are responsible for designing and delivering a profitable produ
 [Certificate](https://github.com/ZahoreczTibor/product_management/blob/main/certs/Product%20Manager%20Nanodegree.pdf)
 #### Product documents
 * [product vision](https://github.com/ZahoreczTibor/product_management/blob/main/product_management/First_Step_Create_Vision.pdf)
+* [design sprint](https://github.com/ZahoreczTibor/product_management/blob/main/product_management/Second_Step_Design_Sprint.pdf)
+* [product development](https://github.com/ZahoreczTibor/product_management/blob/main/product_management/Third_Step_Product_Dev.pdf)
+* [PRD & go-to-market](https://github.com/ZahoreczTibor/product_management/blob/main/product_management/PRD_Final_Step_Goto_Market.pdf)
 
 
 
