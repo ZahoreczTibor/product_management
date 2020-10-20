@@ -13,7 +13,7 @@ Product Managers are responsible for designing and delivering a profitable produ
 
 
 ## AI product manager [finished]
-Evaluate the business value of an AI product. Start by building familiarity and fluency with common AI concepts. Learn how to scope and build a data set, train a model, and evaluate its business impact. Ensure a product is successful by focusing on scalability, potential biases, and compliance. 
+Evaluate the business value of an AI product. Start by building familiarity and fluency with common AI concepts. Learn how to scope and build a data set, train a model, and evaluate its business impact. Ensure a product is successful by focusing on scalability, potential biases, and compliance.  
 [Program Syllabus](https://www.udacity.com/course/ai-product-manager-nanodegree--nd088)  
 [Certificate](https://github.com/ZahoreczTibor/product_management/blob/main/certs/AIPMND.pdf)
 #### Product documents
