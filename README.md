@@ -21,13 +21,16 @@ Evaluate the business value of an AI product. Start by building familiarity and 
 [Program Syllabus](https://www.udacity.com/course/ai-product-manager-nanodegree--nd088)  
 [Certificate](https://github.com/ZahoreczTibor/product_management/blob/main/certs/AIPMND.pdf)
 #### Product documents
-* [build a model](https://github.com/ZahoreczTibor/product_management/blob/main/AIPM/build_model_Google_AutoML.pdf)
+* [build a model](https://github.com/ZahoreczTibor/product_management/blob/main/AIPM/build_model_Google_AutoML.pdf)  
+How a neural network produces a decision and how “training” works. Use training data and how to evaluate the results of a model.
 * [UX plan](https://github.com/ZahoreczTibor/product_management/blob/main/AIPM/UX_chatbot-research-plan.pdf)
-* [Create AI Product proposal](https://github.com/ZahoreczTibor/product_management/blob/main/AIPM/Create_AP_Product_Proposal.pdf)
+* [Create AI Product proposal](https://github.com/ZahoreczTibor/product_management/blob/main/AIPM/Create_AP_Product_Proposal.pdf)  
+How to measure post-deployment impact, and how to make data-informed improvements on your model. Understand how to avoid unwanted bias, ensure security and compliance, and how to scale your product.
 #### Technical side
 * [AI certification](https://github.com/ZahoreczTibor/product_management/blob/main/certs/AIND.pdf)
 * [Deeplearning specialization](https://github.com/ZahoreczTibor/Deeplearning.ai-course)
-* [AI capstone project](https://github.com/ZahoreczTibor/AIND-VUI-Capstone)
+* [AI capstone project](https://github.com/ZahoreczTibor/AIND-VUI-Capstone)  
+Build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline. The model will convert raw audio into feature representations, which will then turn them into transcribed text.
 * [Full stack bootcamp](https://course.fullstackdeeplearning.com/)
 
 
