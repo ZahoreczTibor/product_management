@@ -6,7 +6,8 @@ Product Managers are responsible for designing and delivering a profitable produ
 [Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Product+Manager+Nanodegree+Program+Syllabus.pdf)  
 [Certificate](https://github.com/ZahoreczTibor/product_management/blob/main/certs/Product%20Manager%20Nanodegree.pdf)
 #### Product documents
-* [product vision](https://github.com/ZahoreczTibor/product_management/blob/main/product_management/First_Step_Create_Vision.pdf)
+* [product vision](https://github.com/ZahoreczTibor/product_management/blob/main/product_management/First_Step_Create_Vision.pdf)  
+The most effective products start with a comprehensive market-based, insight-driven strategy. Identify the right problems to solve through market research, target user definition, and market sizing. Create a compelling vision and strategy that will set up the team to solve those problems.  
 * [design sprint](https://github.com/ZahoreczTibor/product_management/blob/main/product_management/Second_Step_Design_Sprint.pdf)
 * [product development](https://github.com/ZahoreczTibor/product_management/blob/main/product_management/Third_Step_Product_Dev.pdf)
 * [PRD & go-to-market](https://github.com/ZahoreczTibor/product_management/blob/main/product_management/PRD_Final_Step_Goto_Market.pdf)
