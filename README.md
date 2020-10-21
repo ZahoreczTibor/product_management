@@ -1,5 +1,6 @@
 # My product management learning path
 The content is my own and not related to any company, it is entirely the end product of educational projects organized by Udacity and Coursera
+![Header](https://github.com/ZahoreczTibor/ZahoreczTibor/blob/main/product%20management.jpeg "Header")
 
 ## Product Manager program [finished]
 Product Managers are responsible for designing and delivering a profitable product or feature into the market.  Define product strategy and KPIs based on market analysis, pitch a product vision to get stakeholder buy-in, and design a user-centered prototype that adheres to engineering constraints. Develop an execution timeline that handles competing priorities, communicate a product roadmap that builds consensus amongst internal stakeholders, and create a comprehensive go-to-market plan based on product KPIs.  
