@@ -2,7 +2,7 @@
 The content is my own and not related to any company, it is entirely the end product of educational projects organized by Udacity and Coursera
 
 ## Product Manager program [finished]
-Product Managers are responsible for designing and delivering a profitable product or feature into the market.  In this program, you will learn to define product strategy and KPIs based on market analysis, pitch a product vision to get stakeholder buy-in, and design a user-centered prototype that adheres to engineering constraints. Then, you will develop an execution timeline that handles competing priorities, communicate a product roadmap that builds consensus amongst internal stakeholders, and create a comprehensive go-to-market plan based on product KPIs. Finally, you will build tests to enhance product features based on market data.  
+Product Managers are responsible for designing and delivering a profitable product or feature into the market.  Define product strategy and KPIs based on market analysis, pitch a product vision to get stakeholder buy-in, and design a user-centered prototype that adheres to engineering constraints. Develop an execution timeline that handles competing priorities, communicate a product roadmap that builds consensus amongst internal stakeholders, and create a comprehensive go-to-market plan based on product KPIs.  
 [Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Product+Manager+Nanodegree+Program+Syllabus.pdf)  
 [Certificate](https://github.com/ZahoreczTibor/product_management/blob/main/certs/Product%20Manager%20Nanodegree.pdf)
 #### Product documents
