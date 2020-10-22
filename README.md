@@ -1,5 +1,6 @@
 # My product management learning path
 The content is my own and not related to any company, it is entirely the end product of educational projects organized by Udacity and Coursera
+
 ![Header](https://github.com/ZahoreczTibor/ZahoreczTibor/blob/main/product%20management.jpeg "Header")
 
 ## Product Manager program [finished]
