@@ -66,5 +66,11 @@ Learn how to make your product profitable, including selecting key markets and o
 Create a digital user experience that is ready to be handed off for development. Building familiarity and fluency with design research fundamentals to identify the user and the solutions they need. Synthesize your research, and use design sprints to take an idea from concept to low-fidelity prototype. Turn your low-fidelity prototype into a high-fidelity design, and improve its performance based on data.  
 [Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/UX%2BDesigner%2BNanodegree%2BProgram%2BSyllabus.pdf)  
 
+## Cloud Journey  
+* Machine Learning with TensorFlow on Google Cloud Platform Specialization 
+Write distributed machine learning models that scale in Tensorflow, scale out the training of those models. and offer high-performance predictions. Convert raw data to features in a way that allows ML to learn important characteristics from the data and bring human insight to bear on the problem. Finally, learn how to incorporate the right mix of parameters that yields accurate, generalized models and knowledge of the theory to solve specific types of ML problems. You will experiment with end-to-end ML, starting from building an ML-focused strategy and progressing into model training, optimization, and productionalization with hands-on labs using Google Cloud Platform.
+[Certificate](https://github.com/ZahoreczTibor/product_management/blob/main/certs/Coursera%20HKCKHJBHC2UL.pdf)  
+
+
 
 
