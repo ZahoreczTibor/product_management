@@ -63,20 +63,8 @@ Learn how to make your product profitable, including selecting key markets and o
 
 
 ## UX Designer
-You’ll learn how to create a digital user experience that is ready to be handed off for development. You’ll start by building familiarity and fluency with design research fundamentals to identify the user and the solutions they need. You’ll then synthesize your research, and use design sprints to take an idea from concept to low-fidelity prototype. Finally, you’ll learn how to turn your low-fidelity prototype into a high-fidelity design, and improve its performance based on data. Along the way, you’ll complete projects that can be incorporated into a UX portfolio at the end of the program in order to showcase your capabilities to future employers.
-https://www.udacity.com/course/ux-designer-nanodegree--nd578
-
-## Technology
-Full Stack Deep Learning helps you bridge the gap from training machine learning models to deploying AI systems in the real world.
-https://course.fullstackdeeplearning.com/
-Deep Learning with fastai
-https://github.com/fastai/fastbook
+Create a digital user experience that is ready to be handed off for development. Building familiarity and fluency with design research fundamentals to identify the user and the solutions they need. Synthesize your research, and use design sprints to take an idea from concept to low-fidelity prototype. Turn your low-fidelity prototype into a high-fidelity design, and improve its performance based on data.  
+[Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/UX%2BDesigner%2BNanodegree%2BProgram%2BSyllabus.pdf)  
 
 
-## Useful aids
-Pricing Lessons from Working with 30+ Seed and Series A B2B Startups
-https://firstround.com/review/pricing-lessons-from-working-with-30-seed-and-series-a-b2b-startups/
-Heavybit Product library
-https://www.heavybit.com/library/topic/product/
-Firstround Product library
-https://firstround.com/review/product/
+
