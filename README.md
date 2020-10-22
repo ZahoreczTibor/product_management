@@ -47,15 +47,25 @@ Data product managers need to ensure their products have the appropriate support
 * Leveraging Data in Iterative Product Design  
 The best products adapt to market changes over time and are constantly being refined based on user feedback. With a robust data pipeline, the amount of data collected through product usage is extremely valuable to product managers for enhancing their products. Understand which data is best collected through quantitative versus qualitative methods, and how to interpret it. Learn how to apply chi-square tests to determine if results from data analysis are statistically significant. Utilize user data to create user personas that are actionable for development teams to translate into code and for building out user journey maps that describe the stages a user engages with the product along with the associated risks and opportunities. Extract insights from user journey maps to define KPIs of suggested product enhancements and design the relative hypotheses and experiments that are needed to prove the assumptions of product enhancements.
 
-# Growth Product Manager
-During the Growth Product Manager Nanodegree program, you will learn to build acquisition funnels, identify core customers, and optimize growth loop models. Then, you will learn how to analyze your results and make improvements to your strategies. Next, you will learn activation theories on how to decrease time-to-value and friction for both B2C and B2B product users, as well as retention theories, for creating audiences and increasing engagement. Finally, you will learn the ins and outs of monetization, from designing pricing plans to determining optimal price points using pricing metrics.
-https://www.udacity.com/course/growth-product-manager-nanodegree--nd037
+## Growth Product Manager [ongoing]
+Build acquisition funnels, identify core customers, and optimize growth loop models. Analyze your results and make improvements to your strategies. Activation theories on how to decrease time-to-value and friction for both B2C and B2B product users, as well as retention theories, for creating audiences and increasing engagement. Monetization, from designing pricing plans to determining optimal price points using pricing metrics.  
+[Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Growth+Product+Manager+Nanodegree+Program+Syllabus.pdf)  
 
-# UX Designer
+#### Product documents  
+* Growth and Acquisition Strategy  
+Build a growth strategy plan to acquire new customers by defining the target market, identifying personas, and aligning them to most efficient acquisition channels. Expand into new markets by harnessing telemetry, customer feedback, market trends, and competitive landscape data. Apply behavioral psychology to the customer purchase process to improve product design, and run A/B tests to assess success.  
+* Activation and Retention Strategy  
+Understand how to guide users to the a-ha moment of your product as soon as possible, via the activation funnel and sign-up flow. Apply best practices for how to best engage customers, and retain them for the long term. Analyze the user lifecycle, including the activation, retention, dormancy, and resurrection phases, and deploy experiments to improve the lifetime value (LTV) and decrease churn.  
+* Monetization Strategy  
+Learn how to make your product profitable, including selecting key markets and outreach channels, and build purchase paths that leverage industry case studies. Apply best practices of experience design, and learn how to measure the effectiveness of your monetization strategy. Design and define pricing plans that utilize quantitative and qualitative methods.  
+
+
+
+## UX Designer
 You’ll learn how to create a digital user experience that is ready to be handed off for development. You’ll start by building familiarity and fluency with design research fundamentals to identify the user and the solutions they need. You’ll then synthesize your research, and use design sprints to take an idea from concept to low-fidelity prototype. Finally, you’ll learn how to turn your low-fidelity prototype into a high-fidelity design, and improve its performance based on data. Along the way, you’ll complete projects that can be incorporated into a UX portfolio at the end of the program in order to showcase your capabilities to future employers.
 https://www.udacity.com/course/ux-designer-nanodegree--nd578
 
-# Technology
+## Technology
 Full Stack Deep Learning helps you bridge the gap from training machine learning models to deploying AI systems in the real world.
 https://course.fullstackdeeplearning.com/
 Deep Learning with fastai
