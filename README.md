@@ -40,6 +40,10 @@ How to measure post-deployment impact, and how to make data-informed improvement
 * [AI capstone project](https://github.com/ZahoreczTibor/AIND-VUI-Capstone)  
 Build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline. The model will convert raw audio into feature representations, which will then turn them into transcribed text.
 * [Full stack bootcamp](https://course.fullstackdeeplearning.com/)  
+#### supporting materials  
+* Machine Learning Yearning by Andrew NG  
+* AI as a Service by Peter Elger  
+
 
 
 
