@@ -35,11 +35,13 @@ How a neural network produces a decision and how “training” works. Use train
 * [Create AI Product proposal](https://github.com/ZahoreczTibor/product_management/blob/main/AIPM/Create_AP_Product_Proposal.pdf)  
 How to measure post-deployment impact, and how to make data-informed improvements on your model. Understand how to avoid unwanted bias, ensure security and compliance, and how to scale your product.
 #### Technical side
-* [AI certification](https://github.com/ZahoreczTibor/product_management/blob/main/certs/AIND.pdf)
+* [Artificial Intelligence nd with specialization certification](https://github.com/ZahoreczTibor/product_management/blob/main/certs/AIND.pdf)
 * [Deeplearning specialization](https://github.com/ZahoreczTibor/Deeplearning.ai-course)
 * [AI capstone project](https://github.com/ZahoreczTibor/AIND-VUI-Capstone)  
 Build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline. The model will convert raw audio into feature representations, which will then turn them into transcribed text.
-* [Full stack bootcamp](https://course.fullstackdeeplearning.com/)
+* [Full stack bootcamp](https://course.fullstackdeeplearning.com/)  
+
+
 
 
 ## Data Product Manager [ongoing]
@@ -59,6 +61,9 @@ Introduce the scikit learn toolkit through a tutorial. The issue of dimensionali
 [Introduction to Data Science in Python](https://coursera.org/share/92d9d4bc958d016a262cbc97fbb5707a)  
 Basics of the python programming environment, including fundamental python programming techniques such as lambdas, reading and manipulating csv files, and the numpy library. The course will introduce data manipulation and cleaning techniques using the popular python pandas data science library and introduce the abstraction of the Series and DataFrame as the central data structures for data analysis, along with tutorials on how to use functions such as groupby, merge, and pivot tables effectively. By the end of this course, students will be able to take tabular data, clean it, manipulate it, and run basic inferential statistical analyses.  
 [Structuring Machine Learning Projects](https://coursera.org/share/09ad932c8b99c65a6559e5aeaa9ab9a7)  
+#### supporting materials  
+* End-to-end Data Analytics for Product Development by Rosa Arboretti Giancristofaro, Mattia De Dominicis, Chris Jones, Luigi Salmaso  
+* Product Analytics: Applied Data Science Techniques for Actionable Consumer Insights by Joanne Rodrigues-Craig  
 
 
 
