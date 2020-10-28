@@ -55,7 +55,7 @@ Leverage market data to amplify product development. Apply data science techniqu
 #### Product documents
 * [Applying Data Science to Product Management](https://github.com/ZahoreczTibor/product_management/blob/main/data_product_management/Data_Science_in_product_management.pdf)  
 As products become more digital, the amount of data collected is increasing. Product managers now have the opportunity to utilize this data to not only enhance existing products, but create completely new ones. Understand the role of data product managers within organizations and how they utilize data science, machine learning, and artificial intelligence to solve problems. Visualize your data with Tableau for statistical analysis and identify unique relationships between variables via hypothesis testing and modeling. Evaluate the output captured in statistical analyses and translate them into insights to inform product decisions.  
-** supporting materials:  
+**supporting materials:  
 
 * Establishing Data Infrastructure  
 Data product managers need to ensure their products have the appropriate supporting data pipelines in place so that data collected from users can be extracted, transformed, and loaded into a data lake or warehouse that can be used for statistical analysis.   
