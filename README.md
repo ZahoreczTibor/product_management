@@ -57,6 +57,7 @@ Leverage market data to amplify product development. Apply data science techniqu
 As products become more digital, the amount of data collected is increasing. Product managers now have the opportunity to utilize this data to not only enhance existing products, but create completely new ones. Understand the role of data product managers within organizations and how they utilize data science, machine learning, and artificial intelligence to solve problems. Visualize your data with Tableau for statistical analysis and identify unique relationships between variables via hypothesis testing and modeling. Evaluate the output captured in statistical analyses and translate them into insights to inform product decisions.  
   * supplement materials:  
   [Optimizely: Program Manager Level 1 program](https://www.optimizely.com/academy/paths/program-manager-path-level-1/)  
+  Designing with Data by by Rochelle King; Caitlin Tan; Elizabeth F Churchill  
   
 
 * Establishing Data Infrastructure  
