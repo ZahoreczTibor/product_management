@@ -55,10 +55,13 @@ Leverage market data to amplify product development. Apply data science techniqu
 #### Product documents
 * [Applying Data Science to Product Management](https://github.com/ZahoreczTibor/product_management/blob/main/data_product_management/Data_Science_in_product_management.pdf)  
 As products become more digital, the amount of data collected is increasing. Product managers now have the opportunity to utilize this data to not only enhance existing products, but create completely new ones. Understand the role of data product managers within organizations and how they utilize data science, machine learning, and artificial intelligence to solve problems. Visualize your data with Tableau for statistical analysis and identify unique relationships between variables via hypothesis testing and modeling. Evaluate the output captured in statistical analyses and translate them into insights to inform product decisions.  
-  * supporting materials:  
+  * supplement materials:  
 
 * Establishing Data Infrastructure  
-Data product managers need to ensure their products have the appropriate supporting data pipelines in place so that data collected from users can be extracted, transformed, and loaded into a data lake or warehouse that can be used for statistical analysis.   
+Data product managers need to ensure their products have the appropriate supporting data pipelines in place so that data collected from users can be extracted, transformed, and loaded into a data lake or warehouse that can be used for statistical analysis.  
+  * supplement materials:  
+  [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/?utm_medium=email&utm_source=newsletter&mkt_tok=eyJpIjoiTW1RM05EaGxNV1kzT1RZeiIsInQiOiI3VFFJOUFISktGN1hJWFZ1cytXbEp4bEl0ODBaNFI1VmlqZmpFVjRXVkowRHUxY0JDVlBqNmljMjBnS08wbW4zRzJnRmVlZlY0R3Ryam5kT3hWbGV3TFY5bVlnWnd6b3FwSlFIT3lrSGFhQVdNSlNjS0l4Q2wxTjNrZmNRNSszeSJ9)  
+  
 * Leveraging Data in Iterative Product Design  
 The best products adapt to market changes over time and are constantly being refined based on user feedback. With a robust data pipeline, the amount of data collected through product usage is extremely valuable to product managers for enhancing their products. Understand which data is best collected through quantitative versus qualitative methods, and how to interpret it. Learn how to apply chi-square tests to determine if results from data analysis are statistically significant. Utilize user data to create user personas that are actionable for development teams to translate into code and for building out user journey maps that describe the stages a user engages with the product along with the associated risks and opportunities. Extract insights from user journey maps to define KPIs of suggested product enhancements and design the relative hypotheses and experiments that are needed to prove the assumptions of product enhancements.  
 #### Technical side  
