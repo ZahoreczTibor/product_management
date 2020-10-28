@@ -1,7 +1,7 @@
 # My product management learning path
 The content is my own and not related to any company, it is entirely the end product of educational projects organized by Udacity and Coursera
 
-## Product Manager program [finished]
+## core product manager program [finished]
 Product Managers are responsible for designing and delivering a profitable product or feature into the market.  Define product strategy and KPIs based on market analysis, pitch a product vision to get stakeholder buy-in, and design a user-centered prototype that adheres to engineering constraints. Develop an execution timeline that handles competing priorities, communicate a product roadmap that builds consensus amongst internal stakeholders, and create a comprehensive go-to-market plan based on product KPIs.  
 [Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Product+Manager+Nanodegree+Program+Syllabus.pdf)  
 [Certificate](https://github.com/ZahoreczTibor/product_management/blob/main/certs/Product%20Manager%20Nanodegree.pdf)
@@ -14,7 +14,7 @@ Take an idea through concept, design, and user validation phases, and create a s
 Critical soft skills needed to manage the development and execution phase of the product. Collaborate with cross-functional teams and stakeholders to guide them through planning and execution. Manage stakeholder expectations and handle risks that arise, reprioritizing feature and sprint priorities to tackle competing requests.
 * [PRD & go-to-market](https://github.com/ZahoreczTibor/product_management/blob/main/product_management/PRD_Final_Step_Goto_Market.pdf)  
 Create a plan, identify the launch risks, and figure out how to minimize their impact on your launch. Collaborate with a variety of teams including Marketing, Sales, Customer Support, and more to prepare them to interface with customers as the product is launched. Execute the launch and use feedback from your customers to determine the next steps for your product.  
-#### supporting materials  
+#### supplement materials  
 * [Product Manager Interview Preparation](https://www.udacity.com/course/product-manager-interview-preparation--ud034)  
 * [Product School San Francisco](https://www.youtube.com/c/ProductSchoolSanFrancisco)  
 * Lean Product Management by Mangalam Nandakumar  
@@ -40,7 +40,7 @@ How to measure post-deployment impact, and how to make data-informed improvement
 * [AI capstone project](https://github.com/ZahoreczTibor/AIND-VUI-Capstone)  
 Build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline. The model will convert raw audio into feature representations, which will then turn them into transcribed text.
 * [Full stack bootcamp](https://course.fullstackdeeplearning.com/)  
-#### supporting materials  
+#### supplement materials  
 * Machine Learning Yearning by Andrew NG  
 * AI as a Service by Peter Elger  
 
