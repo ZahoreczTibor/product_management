@@ -86,6 +86,8 @@ Understand how to guide users to the a-ha moment of your product as soon as poss
 Learn how to make your product profitable, including selecting key markets and outreach channels, and build purchase paths that leverage industry case studies. Apply best practices of experience design, and learn how to measure the effectiveness of your monetization strategy. Design and define pricing plans that utilize quantitative and qualitative methods.  
   * supplement materials:  
   [SaaS Metrics – A Guide to Measuring and Improving What Matters](https://www.forentrepreneurs.com/saas-metrics/)  
+  [SAAS PRICING MODELS, STRATEGIES & PSYCHOLOGICAL HACKS](https://www.cobloom.com/blog/saas-pricing-models#)  
+  
   
 
 
