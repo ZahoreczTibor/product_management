@@ -89,6 +89,8 @@ Build acquisition funnels, identify core customers, and optimize growth loop mod
 Build a growth strategy plan to acquire new customers by defining the target market, identifying personas, and aligning them to most efficient acquisition channels. Expand into new markets by harnessing telemetry, customer feedback, market trends, and competitive landscape data. Apply behavioral psychology to the customer purchase process to improve product design, and run A/B tests to assess success.  
   * supplement materials:  
   [Matrix Growth Academy by David Skok](https://www.forentrepreneurs.com/matrix-growth-academy-zero-to-100-videos/)  
+  [87 MUST-TRY SAAS GROWTH HACKING STRATEGIES](https://www.cobloom.com/blog/saas-growth-hacking-strategies#)  
+  
   
 
 * Activation and Retention Strategy  
