@@ -87,6 +87,10 @@ Build acquisition funnels, identify core customers, and optimize growth loop mod
 #### Product documents  
 * Growth and Acquisition Strategy  
 Build a growth strategy plan to acquire new customers by defining the target market, identifying personas, and aligning them to most efficient acquisition channels. Expand into new markets by harnessing telemetry, customer feedback, market trends, and competitive landscape data. Apply behavioral psychology to the customer purchase process to improve product design, and run A/B tests to assess success.  
+  * supplement materials:  
+  [Matrix Growth Academy by David Skok](https://www.forentrepreneurs.com/matrix-growth-academy-zero-to-100-videos/)  
+  
+
 * Activation and Retention Strategy  
 Understand how to guide users to the a-ha moment of your product as soon as possible, via the activation funnel and sign-up flow. Apply best practices for how to best engage customers, and retain them for the long term. Analyze the user lifecycle, including the activation, retention, dormancy, and resurrection phases, and deploy experiments to improve the lifetime value (LTV) and decrease churn.  
 * Monetization Strategy  
