@@ -58,6 +58,8 @@ As products become more digital, the amount of data collected is increasing. Pro
   * supplement materials:  
   [Optimizely: Program Manager Level 1 program](https://www.optimizely.com/academy/paths/program-manager-path-level-1/)  
   [Designing with Data by by Rochelle King; Caitlin Tan; Elizabeth F Churchill](https://learning.oreilly.com/library/view/designing-with-data/9781449334925/ch04.html)  
+  [Under the Hood of Uber’s Experimentation Platform](https://eng.uber.com/xp/)  
+  
   
   
 
