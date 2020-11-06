@@ -70,6 +70,8 @@ Data product managers need to ensure their products have the appropriate support
   [Uber’s Big Data Platform: 100+ Petabytes with Minute Latency](https://eng.uber.com/uber-big-data-platform/)  
   [A Database Model for a Taxi Service](https://www.vertabelo.com/blog/calling-all-cabs-a-database-model-for-a-taxi-service/)  
   [example data model](https://my.vertabelo.com/model/QeenxMOaGHarJa5feJMcS4NANytJ033l)  
+  [A SaaS Subscription Data Model](https://www.vertabelo.com/blog/a-saas-subscription-data-model/)  
+  
   
   
   
