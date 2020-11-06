@@ -68,6 +68,9 @@ Data product managers need to ensure their products have the appropriate support
   * supplement materials:  
   [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/?utm_medium=email&utm_source=newsletter&mkt_tok=eyJpIjoiTW1RM05EaGxNV1kzT1RZeiIsInQiOiI3VFFJOUFISktGN1hJWFZ1cytXbEp4bEl0ODBaNFI1VmlqZmpFVjRXVkowRHUxY0JDVlBqNmljMjBnS08wbW4zRzJnRmVlZlY0R3Ryam5kT3hWbGV3TFY5bVlnWnd6b3FwSlFIT3lrSGFhQVdNSlNjS0l4Q2wxTjNrZmNRNSszeSJ9)  
   [Uber’s Big Data Platform: 100+ Petabytes with Minute Latency](https://eng.uber.com/uber-big-data-platform/)  
+  [A Database Model for a Taxi Service](https://www.vertabelo.com/blog/calling-all-cabs-a-database-model-for-a-taxi-service/)  
+  [example data model](https://my.vertabelo.com/model/QeenxMOaGHarJa5feJMcS4NANytJ033l)  
+  
   
   
 * Leveraging Data in Iterative Product Design  
