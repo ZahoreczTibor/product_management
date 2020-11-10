@@ -17,6 +17,8 @@ Create a plan, identify the launch risks, and figure out how to minimize their i
 #### supplement materials  
 * [Product Manager Interview Preparation](https://www.udacity.com/course/product-manager-interview-preparation--ud034)  
 * [Product School San Francisco](https://www.youtube.com/c/ProductSchoolSanFrancisco)  
+* [3 Prioritization Techniques All Product Managers Should Know](https://productschool.com/blog/product-management-2/prioritization-techniques-product-managers/?utm_source=blog&utm_medium=blog&utm_campaign=WeeklyArticles)  
+* [Common Product Prioritization Mistakes](https://productschool.com/blog/product-management-2/common-product-prioritization-mistakes/?utm_source=newslettercontent&utm_medium=email&utm_campaign=)  
 * Lean Product Management by Mangalam Nandakumar  
 * Product Management in Practice by Matt LeMay  
 
