@@ -65,9 +65,10 @@ As products become more digital, the amount of data collected is increasing. Pro
   
   
 
-* Establishing Data Infrastructure  
+* [Establishing Data Infrastructure](https://github.com/ZahoreczTibor/product_management/blob/main/data_product_management/Startup_data_strategy.pdf)  
 Data product managers need to ensure their products have the appropriate supporting data pipelines in place so that data collected from users can be extracted, transformed, and loaded into a data lake or warehouse that can be used for statistical analysis.  
   * supplement materials:  
+  [Data Strategy Proposal](https://github.com/ZahoreczTibor/product_management/blob/main/data_product_management/Data_Strategy_Proposal.pdf)  
   [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/?utm_medium=email&utm_source=newsletter&mkt_tok=eyJpIjoiTW1RM05EaGxNV1kzT1RZeiIsInQiOiI3VFFJOUFISktGN1hJWFZ1cytXbEp4bEl0ODBaNFI1VmlqZmpFVjRXVkowRHUxY0JDVlBqNmljMjBnS08wbW4zRzJnRmVlZlY0R3Ryam5kT3hWbGV3TFY5bVlnWnd6b3FwSlFIT3lrSGFhQVdNSlNjS0l4Q2wxTjNrZmNRNSszeSJ9)  
   [Uber’s Big Data Platform: 100+ Petabytes with Minute Latency](https://eng.uber.com/uber-big-data-platform/)  
   [A Database Model for a Taxi Service](https://www.vertabelo.com/blog/calling-all-cabs-a-database-model-for-a-taxi-service/)  
