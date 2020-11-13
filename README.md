@@ -113,6 +113,8 @@ Learn how to make your product profitable, including selecting key markets and o
   [SaaS Metrics – A Guide to Measuring and Improving What Matters](https://www.forentrepreneurs.com/saas-metrics/)  
   [SAAS PRICING MODELS, STRATEGIES & PSYCHOLOGICAL HACKS](https://www.cobloom.com/blog/saas-pricing-models#)  
   [Sales Process Checklist Template](https://www.process.st/checklist/meddic-sales-process/)  
+  [unit of economics case study](https://techcrunch.com/2018/04/10/how-to-understand-the-financial-levers-in-your-business/)  
+  
   
   
   
