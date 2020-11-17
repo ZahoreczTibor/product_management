@@ -107,7 +107,7 @@ Build a growth strategy plan to acquire new customers by defining the target mar
 
 * Activation and Retention Strategy  
 Understand how to guide users to the a-ha moment of your product as soon as possible, via the activation funnel and sign-up flow. Apply best practices for how to best engage customers, and retain them for the long term. Analyze the user lifecycle, including the activation, retention, dormancy, and resurrection phases, and deploy experiments to improve the lifetime value (LTV) and decrease churn.  
- * supplement materials:  
+   * supplement materials:  
    [What is good retention](https://www.lennyrachitsky.com/p/what-is-good-retention-issue-29)  
    
 * Monetization Strategy  
