@@ -125,6 +125,7 @@ Learn how to make your product profitable, including selecting key markets and o
   [Sales Process Checklist Template](https://www.process.st/checklist/meddic-sales-process/)  
   [unit of economics case study](https://techcrunch.com/2018/04/10/how-to-understand-the-financial-levers-in-your-business/)  
   [amazon drone unit of economics](http://capone.mtsu.edu/jee/2016/pp1-12ms615.pdf)  
+  [GitLab Price Strategy](https://about.gitlab.com/handbook/ceo/pricing/)  
   
   
   
