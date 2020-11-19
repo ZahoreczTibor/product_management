@@ -113,6 +113,7 @@ Build a growth strategy plan to acquire new customers by defining the target mar
 Understand how to guide users to the a-ha moment of your product as soon as possible, via the activation funnel and sign-up flow. Apply best practices for how to best engage customers, and retain them for the long term. Analyze the user lifecycle, including the activation, retention, dormancy, and resurrection phases, and deploy experiments to improve the lifetime value (LTV) and decrease churn.  
    * supplement materials:  
    [What is good retention](https://www.lennyrachitsky.com/p/what-is-good-retention-issue-29)  
+   [Coversion funnel Strategy](https://www.crazyegg.com/blog/website-conversion-funnel/)  
    
 * Monetization Strategy  
 Learn how to make your product profitable, including selecting key markets and outreach channels, and build purchase paths that leverage industry case studies. Apply best practices of experience design, and learn how to measure the effectiveness of your monetization strategy. Design and define pricing plans that utilize quantitative and qualitative methods.  
