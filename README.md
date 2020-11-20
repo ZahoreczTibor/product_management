@@ -1,7 +1,7 @@
-# My product management learning path
+# Product management learning path
 The content is my own and not related to any company, it is entirely the end product of educational projects organized by Udacity and Coursera
 
-## core product manager program [finished]
+## core product manager program
 Product Managers are responsible for designing and delivering a profitable product or feature into the market.  Define product strategy and KPIs based on market analysis, pitch a product vision to get stakeholder buy-in, and design a user-centered prototype that adheres to engineering constraints. Develop an execution timeline that handles competing priorities, communicate a product roadmap that builds consensus amongst internal stakeholders, and create a comprehensive go-to-market plan based on product KPIs.  
 [Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Product+Manager+Nanodegree+Program+Syllabus.pdf)  
 [Certificate](https://github.com/ZahoreczTibor/product_management/blob/main/certs/Product%20Manager%20Nanodegree.pdf)
@@ -26,7 +26,7 @@ Create a plan, identify the launch risks, and figure out how to minimize their i
 
 
 
-## AI product manager [finished]
+## AI product manager 
 Evaluate the business value of an AI product. Start by building familiarity and fluency with common AI concepts. Learn how to scope and build a data set, train a model, and evaluate its business impact. Ensure a product is successful by focusing on scalability, potential biases, and compliance.  
 [Program Syllabus](https://www.udacity.com/course/ai-product-manager-nanodegree--nd088)  
 [Certificate](https://github.com/ZahoreczTibor/product_management/blob/main/certs/AIPMND.pdf)
@@ -50,7 +50,7 @@ Build a deep neural network that functions as part of an end-to-end automatic sp
 
 
 
-## Data Product Manager [ongoing]
+## Data Product Manager
 Leverage market data to amplify product development. Apply data science techniques, data engineering processes, and market experimentation tests to deliver customized product experiences. Begin by leveraging the power of **SQL** and **Tableau** to inform product strategy. Then, develop data pipelines and warehousing strategies that prepare data collected from a product for robust analysis. Finally, evaluating the data from live products, including how to design and execute various A/B and multivariate tests to shape the next iteration of a product.  
 [Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Data+Product+Manager+Nanodegree+Program+Syllabus.pdf)  
 
@@ -97,7 +97,7 @@ Basics of the python programming environment, including fundamental python progr
 
 
 
-## Growth Product Manager [ongoing]
+## Growth Product Manager
 Build acquisition funnels, identify core customers, and optimize growth loop models. Analyze your results and make improvements to your strategies. Activation theories on how to decrease time-to-value and friction for both B2C and B2B product users, as well as retention theories, for creating audiences and increasing engagement. Monetization, from designing pricing plans to determining optimal price points using pricing metrics.  
 [Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Growth+Product+Manager+Nanodegree+Program+Syllabus.pdf)  
 
