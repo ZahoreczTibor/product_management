@@ -50,7 +50,7 @@ Build a deep neural network that functions as part of an end-to-end automatic sp
 
 
 
-## Data Product Manager
+## Data product manager
 Leverage market data to amplify product development. Apply data science techniques, data engineering processes, and market experimentation tests to deliver customized product experiences. Begin by leveraging the power of **SQL** and **Tableau** to inform product strategy. Then, develop data pipelines and warehousing strategies that prepare data collected from a product for robust analysis. Finally, evaluating the data from live products, including how to design and execute various A/B and multivariate tests to shape the next iteration of a product.  
 [Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Data+Product+Manager+Nanodegree+Program+Syllabus.pdf)  
 
@@ -97,7 +97,7 @@ Basics of the python programming environment, including fundamental python progr
 
 
 
-## Growth Product Manager
+## Growth product manager
 Build acquisition funnels, identify core customers, and optimize growth loop models. Analyze your results and make improvements to your strategies. Activation theories on how to decrease time-to-value and friction for both B2C and B2B product users, as well as retention theories, for creating audiences and increasing engagement. Monetization, from designing pricing plans to determining optimal price points using pricing metrics.  
 [Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Growth+Product+Manager+Nanodegree+Program+Syllabus.pdf)  
 
