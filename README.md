@@ -1,4 +1,4 @@
-# Product management learning path
+# Product management
 The content is my own and not related to any company, it is entirely the end product of educational projects organized by Udacity and Coursera
 
 ## core product manager program
