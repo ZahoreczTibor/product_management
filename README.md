@@ -140,7 +140,8 @@ Learn how to make your product profitable, including selecting key markets and o
 
 ## UX Designer
 Create a digital user experience that is ready to be handed off for development. Building familiarity and fluency with design research fundamentals to identify the user and the solutions they need. Synthesize your research, and use design sprints to take an idea from concept to low-fidelity prototype. Turn your low-fidelity prototype into a high-fidelity design, and improve its performance based on data.  
-[Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/UX%2BDesigner%2BNanodegree%2BProgram%2BSyllabus.pdf)  
+[Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/UX%2BDesigner%2BNanodegree%2BProgram%2BSyllabus.pdf) 
+[UX Research by GitLab](https://about.gitlab.com/handbook/engineering/ux/ux-research/#how-ux-research-product-management-and-product-design-work-together-on-research-single-stage-group-initiatives)  
 
 ## Cloud Journey  
 * Machine Learning with TensorFlow on Google Cloud Platform Specialization 
