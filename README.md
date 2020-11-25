@@ -25,6 +25,7 @@ Create a plan, identify the launch risks, and figure out how to minimize their i
 * [Common Product Prioritization Mistakes](https://productschool.com/blog/product-management-2/common-product-prioritization-mistakes/?utm_source=newslettercontent&utm_medium=email&utm_campaign=)  
 * Lean Product Management by Mangalam Nandakumar  
 * Product Management in Practice by Matt LeMay  
+* [Idea validation workbook](https://docs.google.com/document/d/1902EhGk7MGdqp_yIRkt27IhS3R0U_zDYxAMcLMyVndY/edit#)  
 
 
 
