@@ -90,6 +90,7 @@ The best products adapt to market changes over time and are constantly being ref
   * supplement materials:  
   [automated data workflow](https://www.naas.ai/)  
   [Jobs to be done framework](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)  
+  [Arrival Rate Bias in A/B Testing](https://towardsdatascience.com/arrival-rate-bias-ab-testing-1-d291ae9d0cab)  
   
 #### Technical side  
 * [Applied Machine Learning in Python](https://coursera.org/share/e10f9e659e99c1dbe9e6ba44b3a5055d)  
