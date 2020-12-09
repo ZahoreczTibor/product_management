@@ -116,6 +116,7 @@ Build a growth strategy plan to acquire new customers by defining the target mar
   * supplement materials:  
   [Matrix Growth Academy by David Skok](https://www.forentrepreneurs.com/matrix-growth-academy-zero-to-100-videos/)  
   [87 MUST-TRY SAAS GROWTH HACKING STRATEGIES](https://www.cobloom.com/blog/saas-growth-hacking-strategies#)  
+  [Discover what drives subscription growth](https://www.profitwell.com/recur)  
   
   
 
