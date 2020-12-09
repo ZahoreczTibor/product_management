@@ -136,6 +136,7 @@ Learn how to make your product profitable, including selecting key markets and o
   [amazon drone unit of economics](http://capone.mtsu.edu/jee/2016/pp1-12ms615.pdf)  
   [GitLab Price Strategy](https://about.gitlab.com/handbook/ceo/pricing/)  
   [ProfitWell Reports](https://www.profitwell.com/recur/profitwell-report)  
+  [Pricing Bllog](https://www.profitwell.com/recur/all/tag/pricing)  
   
   
   
