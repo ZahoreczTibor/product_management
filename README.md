@@ -93,6 +93,7 @@ The best products adapt to market changes over time and are constantly being ref
   [Arrival Rate Bias in A/B Testing](https://towardsdatascience.com/arrival-rate-bias-ab-testing-1-d291ae9d0cab)  
   [Adaptive Experimentation Platform](https://ax.dev/)  
   [Trustworthy Online Controlled Experiments](https://experimentguide.com/)  
+  [KPI templates](https://www.klipfolio.com/resources/kpi-examples)  
   
 #### Technical side  
 * [Applied Machine Learning in Python](https://coursera.org/share/e10f9e659e99c1dbe9e6ba44b3a5055d)  
