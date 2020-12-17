@@ -58,6 +58,7 @@ Build a deep neural network that functions as part of an end-to-end automatic sp
 ## Data product manager
 Leverage market data to amplify product development. Apply data science techniques, data engineering processes, and market experimentation tests to deliver customized product experiences. Begin by leveraging the power of **SQL** and **Tableau** to inform product strategy. Then, develop data pipelines and warehousing strategies that prepare data collected from a product for robust analysis. Finally, evaluating the data from live products, including how to design and execute various A/B and multivariate tests to shape the next iteration of a product.  
 [Program Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Data+Product+Manager+Nanodegree+Program+Syllabus.pdf)  
+[Certificate](https://confirm.udacity.com/HN9FQ7H4)  
 
 #### Product documents
 * [Applying Data Science to Product Management](https://github.com/ZahoreczTibor/product_management/blob/main/data_product_management/Data_Science_in_product_management.pdf)  
